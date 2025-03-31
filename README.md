@@ -7,7 +7,7 @@ This test framework fetches authors from https://poetrydb.org/
 * clone repository
 * cd into cloned repository
 * .\venv\Scripts\activate
-* pip3 install -r requirements.txt
+* pip install -r requirements.txt
 * pytest
 
 ## Test cases
